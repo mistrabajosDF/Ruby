@@ -1,3 +1,5 @@
+## Actividades de curso de Ruby, 2024
+
 P1: Sintaxis y conceptos básicos
 
 P2: Clases, módulos, métodos, bloques, enumeradores y excepciones
